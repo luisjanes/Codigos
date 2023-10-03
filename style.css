@@ -1,0 +1,15 @@
+body{
+    background: rgba(91, 91, 134, 0.445);
+}
+input{
+    border-radius: 2px;
+}
+input:hover{
+    background-color: rgba(220, 151, 151, 0.435);
+    box-shadow: 2px;
+    border-radius: 3px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
